@@ -9,7 +9,7 @@
 def breakfast(food="frosted flakes")
   "Morning is the best time for #{food}!"
 end 
-puts breakfast 
+puts breakfast ("scrambled eggs")
 
 def snacks(food="Cheetos")
   "Any time, is the right time for #{food}!"
